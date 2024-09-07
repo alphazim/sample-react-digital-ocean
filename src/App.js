@@ -38,6 +38,10 @@ export default function App() {
           text="DigitalOcean Dashboard"
           url="https://cloud.digitalocean.com/apps"
         />
+        <Button
+          text="alphazim Home"
+          url="https://alphazim.com"
+        />
       </div>
     </div>
   );
